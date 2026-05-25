@@ -1,0 +1,235 @@
+{
+    "tests": [
+        {
+            "title": "Test 1 - ¿Qué vía metabólica eres?",
+            "questions": [
+                {
+                    "question": "¿Cómo sueles tomar decisiones importantes?",
+                    "answers": [
+                        "Actúo rápido, guiándome por el momento",
+                        "Analizo todas las opciones antes de decidir",
+                        "Busco la forma más eficiente de actuar",
+                        "Me adapto según los recursos que tenga"
+                    ]
+                },
+                {
+                    "question": "En un trabajo en grupo, tú eres quien…",
+                    "answers": [
+                        "Inicia las tareas y pone todo en marcha",
+                        "Organiza y estructura el trabajo",
+                        "Aporta ideas nuevas y conecta conceptos",
+                        "Mantiene el esfuerzo hasta el final"
+                    ]
+                },
+                {
+                    "question": "¿Cómo gestionas tu tiempo?",
+                    "answers": [
+                        "Vivo el presente sin pensar demasiado en el futuro",
+                        "Planifico con antelación",
+                        "Me adapto según surjan imprevistos",
+                        "Mantengo un ritmo constante y sostenido"
+                    ]
+                },
+                {
+                    "question": "Si tienes recursos limitados, ¿qué haces?",
+                    "answers": [
+                        "Los utilizo rápidamente para resolver el problema",
+                        "Los guardo y administro cuidadosamente",
+                        "Busco alternativas o soluciones diferentes",
+                        "Intento optimizarlos al máximo"
+                    ]
+                },
+                {
+                    "question": "¿Cómo reaccionas ante un cambio inesperado?",
+                    "answers": [
+                        "Reacciono de inmediato",
+                        "Me reorganizo y ajusto el plan",
+                        "Busco una vía alternativa",
+                        "Resisto hasta adaptarme"
+                    ]
+                },
+                {
+                    "question": "¿Cómo sueles usar tu energía en el día a día?",
+                    "answers": [
+                        "En ráfagas intensas y rápidas",
+                        "De manera equilibrada",
+                        "De forma muy eficiente",
+                        "De manera constante a largo plazo"
+                    ]
+                },
+                {
+                    "question": "En una situación social (como una fiesta), eres…",
+                    "answers": [
+                        "El centro de atención",
+                        "Sociable pero moderado",
+                        "Tranquilo y constante",
+                        "Observador y creativo"
+                    ]
+                },
+                {
+                    "question": "¿Con qué frase te identificas más?",
+                    "answers": [
+                        "Actúa ahora, piensa después",
+                        "Todo requiere un proceso",
+                        "Siempre hay más de una solución",
+                        "La eficiencia es clave"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Test 2 - ¿Qué receptor del gusto eres?",
+            "questions": [
+                {
+                    "question": "¿Cómo procesas la información cuando aprendes algo nuevo?",
+                    "answers": [
+                        "Necesito que me lo expliquen de forma amable y atractiva; si me resulta pesado o desagradable, desconecto.",
+                        "De forma instantánea y directa. Capto los datos puros y reacciono de inmediato sin darle mil vueltas.",
+                        "Con escepticismo y rapidez. Mi mente se activa ante las alertas o los problemas para resolverlos ya.",
+                        "De manera profunda y pausada. Busco las conexiones ocultas, el contexto general y el caldo de cultivo de la información."
+                    ]
+                },
+                {
+                    "question": "¿Cómo es tu nivel de energía a lo largo del día?",
+                    "answers": [
+                        "Alta, pero busco la comodidad. Me muevo por recompensas y motivación positiva.",
+                        "Muy estable y constante. Mantengo un equilibrio óptimo de energía para rendir todo el día.",
+                        "Explosiva y reactiva. Puedo estar tranquilo y, ante un estímulo imprevisto, ponerme a mil por hora en un segundo.",
+                        "Intensa, duradera y reconfortante. No soy de arranques rápidos, pero mi resistencia a largo plazo es enorme."
+                    ]
+                },
+                {
+                    "question": "Ante una situación de estrés o peligro, ¿cuál es tu primera reacción biológica?",
+                    "answers": [
+                        "Busco refugio o algo que me dé seguridad y reduzca la ansiedad rápidamente.",
+                        "Mantengo la calma y regulo la situación de forma automática; busco el equilibrio interno de inmediato.",
+                        "¡Alerta máxima! Mi cuerpo se activa con una señal ácida de cuidado, algo no va bien.",
+                        "Me quedo analizando la situación de fondo, absorbiendo toda la experiencia para entenderla por completo."
+                    ]
+                },
+                {
+                    "question": "¿Cómo prefieres comunicarte con los demás?",
+                    "answers": [
+                        "Con palabras amables, buscando siempre agradar, empatizar y endulzar el mensaje.",
+                        "De forma clara, directa y sin filtros innecesarios. Al grano y con sentido práctico.",
+                        "Con comentarios agudos, respuestas rápidas, un toque irónico y mucha expresividad.",
+                        "Con conversaciones profundas, complejas y con mucho fondo emocional o intelectual."
+                    ]
+                },
+                {
+                    "question": "Si fueras una estructura o un mecanismo arquitectónico, ¿cuál serías?",
+                    "answers": [
+                        "Una cerradura de alta seguridad con una llave muy específica y sofisticada que encaja a la perfección.",
+                        "Una puerta abierta de par en par o un canal libre por donde pasa la corriente de forma natural y fluida.",
+                        "Un sensor de pH o una alarma de seguridad que salta al menor cambio en el ambiente.",
+                        "Una red interconectada compleja que trabaja en equipo para sostener toda la estructura."
+                    ]
+                },
+                {
+                    "question": "¿Qué es lo que más necesitas para sentirte bien en tu día a día?",
+                    "answers": [
+                        "Estímulos positivos, pequeños premios, placeres cotidianos y motivación.",
+                        "Estabilidad, rutina saludable y que las bases de mi vida estén en perfecto equilibrio.",
+                        "Movimiento, dinamismo, retos intelectuales y cosas que me saquen de la monotonía.",
+                        "Conexiones humanas profundas, sustancia en lo que hago y sentirme parte de un todo."
+                    ]
+                },
+                {
+                    "question": "En tu grupo social, ¿qué función cumples de manera natural?",
+                    "answers": [
+                        "El que aporta optimismo, alegría y celebra los éxitos de todos.",
+                        "El cable a tierra, el que mantiene al grupo unido y en perfecto balance.",
+                        "El disruptivo, el que cuestiona las normas y hace que todos se activen o reaccionen.",
+                        "El que da cuerpo y consistencia al grupo; el apoyo maduro que hace que todo sea más intenso y duradero."
+                    ]
+                },
+                {
+                    "question": "¿Cómo definirías tu forma de tomar decisiones?",
+                    "answers": [
+                        "Me guío por lo que me genera bienestar a corto plazo y me resulta apetecible.",
+                        "De manera lógica y automática, basándome en las necesidades esenciales del momento.",
+                        "Rápida y defensiva; si noto algo extraño o que no me cuadra, cambio de rumbo al instante.",
+                        "Sopesando la complejidad de la situación, buscando un beneficio integral y duradero."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Test 3 - ¿Qué biomolécula eres?",
+            "questions": [
+                {
+                    "question": "¿Qué papel te representa más en un grupo?",
+                    "answers": [
+                        "Dar energía rápida y estar siempre disponible",
+                        "Guardar energía y ser reserva",
+                        "Dar soporte y mantener la estructura",
+                        "Conservar información y dirigir procesos"
+                    ]
+                },
+                {
+                    "question": "¿Cómo sueles reaccionar ante un examen difícil?",
+                    "answers": [
+                        "Actúo rápido",
+                        "Me adapto y aguanto, auqnue me salga regular",
+                        "Me centro y acabo sacando un 10",
+                        "Me esfuerzo todo lo posible"
+                    ]
+                },
+                {
+                    "question": "¿Qué estilo te define más?",
+                    "answers": [
+                        "Sencillo, directo y útil",
+                        "Estable y protector",
+                        "Resistente y funcional",
+                        "Profundo y esencial"
+                    ]
+                },
+                {
+                    "question": "¿Dónde encajas mejor?",
+                    "answers": [
+                        "En tareas inmediatas de energía",
+                        "En estructuras de reserva",
+                        "En tejidos que necesitan firmeza",
+                        "En controlar lo que ocurre dentro de la célula"
+                    ]
+                },
+                {
+                    "question": "¿Qué te gusta más de un proceso biológico?",
+                    "answers": [
+                        "Que sea rápido",
+                        "Que esté bien protegido",
+                        "Que tenga una función muy concreta",
+                        "Que esté bien guardada la información"
+                    ]
+                },
+                {
+                    "question": "Si fueras una molécula, serías…",
+                    "answers": [
+                        "Una fuente inmediata de energía",
+                        "Una reserva para más adelante",
+                        "Una pieza clave de soporte",
+                        "Una molécula que ayuda a expresar información"
+                    ]
+                },
+                {
+                    "question": "¿Qué valoras más?",
+                    "answers": [
+                        "Rapidez",
+                        "Estabilidad",
+                        "Resistencia",
+                        "Memoria e información"
+                    ]
+                },
+                {
+                    "question": "¿Qué te describe mejor en un entorno nuevo?",
+                    "answers": [
+                        "Me adapto enseguida y empiezo a funcionar",
+                        "Me coloco donde haga falta para proteger",
+                        "Hago una función concreta muy bien",
+                        "Llevo instrucciones claras"
+                    ]
+                }
+            ]
+        }
+    ]
+}

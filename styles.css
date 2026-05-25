@@ -1,3 +1,4 @@
+/* NAVBAR */
 .custom-navbar {
     background-color: #EBEBEB;
     border-bottom: 4px solid #00754A;
@@ -9,12 +10,14 @@
     font-size: 1.5rem;
 }
 
+/* TÍTULO */
 .main-title {
     color: #0B3D2E;
     font-size: 3rem;
     text-align: center;
 }
 
+/* DESCRIPCIÓN */
 .main-description {
     color: #000;
     font-size: 1.2rem;
@@ -22,4 +25,60 @@
     margin: 0 auto;
     line-height: 1.8;
     text-align: center;
+}
+
+/* ACCORDION */
+.custom-accordion {
+    margin-bottom: 1rem;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+/* IMPARES */
+.odd-button {
+    background-color: #00754A !important;
+    color: white !important;
+}
+
+/* PARES */
+.even-button {
+    background-color: #EBEBEB !important;
+    color: #00754A !important;
+}
+
+/* BODY */
+.accordion-body {
+    background-color: #f8f8f8;
+    border: 1px solid #e5e5e5;
+}
+
+/* FOCUS */
+.accordion-button:focus {
+    box-shadow: none;
+    border: none;
+}
+
+/* ABIERTO */
+.accordion-button:not(.collapsed) {
+    box-shadow: none;
+}
+
+/* FLECHA BLANCA */
+.odd-button::after {
+    filter: brightness(0) invert(1);
+}
+
+/* PREGUNTAS */
+h5 {
+    color: #00754A;
+    font-weight: bold;
+}
+
+/* RESPUESTAS */
+.form-check {
+    margin-bottom: 0.5rem;
+}
+
+.form-check-label {
+    color: #000;
 }
