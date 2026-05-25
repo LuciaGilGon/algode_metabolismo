@@ -209,25 +209,25 @@ function mostrarResultado(testIndex) {
             A: {
                 title: "⚡ Glucosa",
                 description:
-                    "Eres una biomolécula rápida, sencilla y muy útil, porque representas energía inmediata y una respuesta directa."
+                    "Eres una biomolécula con mucha energía amable, de esas que hacen que todo empiece a moverse y a activarse con facilidad. Tienes una presencia sencilla, cercana y muy útil, porque no necesitas ser compleja para ser importante. Representas ese impulso inmediato que ayuda a continuar, a reaccionar y a tener fuerza para el momento presente. Eres como una chispa pequeña pero muy luminosa, siempre lista para dar un empujoncito cuando hace falta."
             },
 
             B: {
                 title: "🔋 Triglicérido",
                 description:
-                    "Eres una biomolécula de reserva, estable y protectora, porque tu función principal es almacenar energía para más adelante."
+                    "Eres una biomolécula tranquila, previsora y muy protectora, como si tu especialidad fuera guardar recursos con mucho cariño. No te gusta gastar energía sin sentido, porque prefieres conservar, reservar y estar preparada para más adelante. Tienes una vibra estable y cálida, muy de confianza, de esas presencias que dan seguridad sin necesidad de hacerse notar demasiado. Eres importante porque representas la idea de tener un pequeño refugio para los momentos en que hace falta apoyo."
             },
 
             C: {
                 title: "🏗️ Colágeno",
                 description:
-                    "Eres una biomolécula estructural, resistente y funcional, porque aportas soporte y firmeza a los tejidos."
+                    "Eres una biomolécula firme, resistente y con mucha capacidad de sostener lo que importa. Tu esencia es la de alguien que aporta estructura, apoyo y estabilidad, pero de una forma elegante y constante. No siempre eres la más visible, pero sí una de las más necesarias, porque donde tú estás todo se mantiene más fuerte, más unido y más organizado. Tienes una energía muy bonita de sostén, de cuidado y de permanencia."
             },
 
             D: {
                 title: "🧬 ADN / ARN",
                 description:
-                    "Eres una biomolécula informacional, profunda y esencial, porque guardas y transmites instrucciones para que todo funcione correctamente."
+                    "Eres una biomolécula muy especial porque llevas información valiosa y sabes convertirla en algo útil y con sentido. Tienes una personalidad profunda, ordenada y un poquito misteriosa, como si guardaras dentro un mapa secreto de quién eres y cómo funcionas. Representas la parte más íntima y esencial de la organización biológica, esa que no se ve por fuera pero que guía todo por dentro. Eres importante porque haces posible que la información se conserve, se lea y se use en el momento adecuado."
             }
         };
     }
